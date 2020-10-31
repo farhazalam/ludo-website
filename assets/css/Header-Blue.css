@@ -13,6 +13,26 @@
     background: #ff5722 !important;
 }
 
+.sticky-button {
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    bottom: 15px;
+    left: 20px;
+}
+
+.fa-whatsapp {
+    background-color: #25D366;
+    color: white;
+    border-radius: 100%;
+    padding: 0.7rem;
+    font-size: 1.8rem;
+}
+
+.fa-whatsapp:hover {
+    background-color: rgb(24, 177, 80);
+}
+
 @media (min-width:768px) {
     .header-blue {
         padding-bottom: 120px;
