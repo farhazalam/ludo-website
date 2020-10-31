@@ -1,1 +1,9 @@
-{"short_name":"Ludo Challenge","name":"Ludo Challenge","icons":[{"src":"/assets/img/WhatsApp%20Image%202020-09-10%20at%2017.42.01.jpeg","type":"image/jpeg","sizes":"512x512"},{"src":"/assets/img/WhatsApp%20Image%202020-09-10%20at%2017.42.01.jpeg","type":"image/jpeg","sizes":"512x512"}],"start_url":"/index.html","display":"fullscreen"}
+{
+    "short_name": "Ludo Challenge",
+    "name": "Ludo Challenge",
+    "icons": [{ "src": "/assets/img/logo.jpeg", "type": "image/jpeg", "sizes": "512x512" },
+        { "src": "/assets/img/logo.jpeg", "type": "image/jpeg", "sizes": "512x512" }
+    ],
+    "start_url": "/index.html",
+    "display": "fullscreen"
+}
